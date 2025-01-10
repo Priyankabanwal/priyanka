@@ -74,7 +74,7 @@ const TestimonialAreaTwo = () => {
   ];
 
   return (
-    <section className="testimonial-area-two pt-110 pb-50">
+    <section className="testimonial-area-two pt-110 pb-50" style={{ display: 'none' }}>
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-9">

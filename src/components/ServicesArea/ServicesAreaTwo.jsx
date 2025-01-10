@@ -18,8 +18,8 @@ const ServicesAreaTwo = () => {
     {
       src: "/img/icon/services_icon04.png",
       url: "",
-      title: "Shopify Apps",
-      desc: "Create custom Shopify apps to enhance store functionality and improve user experience.",
+      title: "WooCommerce",
+      desc: "Create WordPress websites to enhance functionality and improve user experience.",
     },
   ];
 

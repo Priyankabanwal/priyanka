@@ -30,11 +30,11 @@ const BannerTwo = () => {
                     </div> */}
                 
                 <ul className="list-wrap">
-                  <li>
+                  {/* <li>
                     <a href="https://www.instagram.com/priyanka_banwal16/">
                       <img src="/img/icon/banner_icon01.svg" alt="" />
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                     <a href="https://github.com/Priyankabanwal">
                       <img className="linsedhhhjh" src="https://cdn.shopify.com/s/files/1/0778/3012/7901/files/git-svgrepo-com.svg?v=1735975440" alt="" />

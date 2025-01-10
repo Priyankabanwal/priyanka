@@ -18,13 +18,13 @@ const ProjectAreaTwo = () => {
       desc: "Nature-based modern nutrition crafted for everybody",
       className: "cat-one",
     },
-    {
-      url: "https://www.gleefullsupps.com",
-      src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_2.png?v=1735657322",
-      title: "GleeFull Supps",
-      desc: "Nature-based modern nutrition crafted for everybody",
-      className: "cat-one",
-    },
+    // {
+    //   url: "https://www.gleefullsupps.com",
+    //   src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_2.png?v=1735657322",
+    //   title: "GleeFull Supps",
+    //   desc: "Nature-based modern nutrition crafted for everybody",
+    //   className: "cat-one",
+    // },
     {
       url: "https://wellbeingnutrition.com",
       src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/66d2e8c91e73c0ca7470edf4_Wellbeing-p-500.png?v=1735650879",
@@ -32,13 +32,13 @@ const ProjectAreaTwo = () => {
       desc: "Health and Beauty Supplements Online",
       className: "cat-one , cat-five",
     },
-    {
-      url: "https://www.zeroharm.in",
-      src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/66d2e90210a8d05fd3f131fc_ZEOHARM-p-500.png?v=1735650879",
-      title: "Zeroharm Sciences",
-      desc: "100% Plant Based Natural Health Supplements India",
-      className: "cat-one",
-    },
+    // {
+    //   url: "https://www.zeroharm.in",
+    //   src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/66d2e90210a8d05fd3f131fc_ZEOHARM-p-500.png?v=1735650879",
+    //   title: "Zeroharm Sciences",
+    //   desc: "100% Plant Based Natural Health Supplements India",
+    //   className: "cat-one",
+    // },
     {
       url: "https://thegoodbug.com",
       src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/66d2e21b1c22d08713e8227c_GOODBUG-p-500.png?v=1735652952",
@@ -88,13 +88,13 @@ const ProjectAreaTwo = () => {
       desc: "QUOD fuses period femininity with classic tailoring and modern streetwear.",
       className: "cat-two",
     },
-    {
-      url: "https://serrakirdar.com",
-      src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_7.png?v=1735824426",
-      title: "Serra Kirdar",
-      desc: "Serrakirdar is the global go-to platform for curated fashion edits from edgy independent brands.",
-      className: "cat-two",
-    },
+    // {
+    //   url: "https://serrakirdar.com",
+    //   src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_7.png?v=1735824426",
+    //   title: "Serra Kirdar",
+    //   desc: "Serrakirdar is the global go-to platform for curated fashion edits from edgy independent brands.",
+    //   className: "cat-two",
+    // },
     {
       url: "https://serrakirdar.com",
       src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_9.png?v=1735826832",
@@ -123,13 +123,13 @@ const ProjectAreaTwo = () => {
       desc: "Serrakirdar is the global go-to platform for curated fashion edits from edgy independent brands.",
       className: "cat-three",
     },
-    {
-      url: "https://5minskin.com",
-      src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_252_1.png?v=1735970205",
-      title: "5minskin",
-      desc: "Sculpt 2.0 by 5minskin: at-home laser hair removal with pro, pain-free results. Reduces hair growth in 2-3 weeks with a quartz bulb.",
-      className: "cat-three , cat-five",
-    },
+    // {
+    //   url: "https://5minskin.com",
+    //   src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_252_1.png?v=1735970205",
+    //   title: "5minskin",
+    //   desc: "Sculpt 2.0 by 5minskin: at-home laser hair removal with pro, pain-free results. Reduces hair growth in 2-3 weeks with a quartz bulb.",
+    //   className: "cat-three , cat-five",
+    // },
     {
       url: "https://juicychemistry.com/pages/color-chemistry",
       src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_26.png?v=1735967520",
@@ -137,20 +137,20 @@ const ProjectAreaTwo = () => {
       desc: "Buy Natural & Organic Makeup Products Online",
       className: "cat-three",
     },
-    {
-      url: "https://www.aminu.life",
-      src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_31.png?v=1735967520",
-      title: "Aminu",
-      desc: "High Performing, Wholistic Clean Skincare.",
-      className: "cat-three",
-    },
-    {
-      url: "https://faithandpatience.co.in",
-      src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_251.png?v=1735969220",
-      title: "FAITH AND PATIENCE",
-      desc: "India's first Camel milk hair care and skin care brand.",
-      className: "cat-three",
-    },
+    // {
+    //   url: "https://www.aminu.life",
+    //   src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_31.png?v=1735967520",
+    //   title: "Aminu",
+    //   desc: "High Performing, Wholistic Clean Skincare.",
+    //   className: "cat-three",
+    // },
+    // {
+    //   url: "https://faithandpatience.co.in",
+    //   src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_251.png?v=1735969220",
+    //   title: "FAITH AND PATIENCE",
+    //   desc: "India's first Camel milk hair care and skin care brand.",
+    //   className: "cat-three",
+    // },
     {
       url: "https://dreamerdesigns.com",
       src: "https://cdn.shopify.com/s/files/1/0778/3012/7901/files/Group_261.png?v=1735971279",
@@ -225,6 +225,7 @@ const ProjectAreaTwo = () => {
       filter: "cat-five",
       label: "Fantastic Plus Stores",
     },
+ 
   ];
 
   const [selectedFilter, setSelectedFilter] = useState("cat-one");
